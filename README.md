@@ -20,7 +20,7 @@ Project is a system that manage ```votes```
 To run this project you must have installed ```python```. Recommended ```Python 3.12.3 or above```
 - Clone this repository using:
 ```
-git clone https://github.com/Kamil-Kijak/evoting-flask-app.git
+git clone https://github.com/kkamildev/evoting-flask-app.git
 ```
 - Enter to cloned repository and first create ```virtual environment```:
 ```
@@ -56,6 +56,6 @@ DB_USER="<database user default root>"
 DB_PASSWORD="<database password default ''>"
 ```
 ## 👦 Authors:
-- Kamil Kijak ```(solo creator)```
+- Kkamildev ```(solo creator)```
 ## Project protected using MIT license
 
